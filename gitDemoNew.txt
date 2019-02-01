@@ -1,6 +1,7 @@
-Adding some changes in the file
-Changing to test fastforward.
 
 Changed This is Test File
 Editing Text file.
 This is a text file.
+
+
+Testing No fastforward again in git.
