@@ -1,3 +1,5 @@
+Adding some changes in the file
+
 Changed This is Test File
 Editing Text file.
 This is a text file.
