@@ -12,3 +12,6 @@ Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
+
+
+Testing git Rebase pull.
