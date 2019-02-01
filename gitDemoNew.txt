@@ -5,3 +5,7 @@ This is a text file.
 
 
 Testing No fastforward again in git.
+
+
+
+Testing Conflict in Git.
