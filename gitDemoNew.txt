@@ -8,6 +8,7 @@ Testing No fastforward again in git.
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
+<<<<<<< HEAD
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
@@ -15,3 +16,7 @@ Adding Text to test conflict on the other branch
 
 
 Testing git Rebase pull.
+=======
+
+Testing Another Developer contributing to master repo
+>>>>>>> 66e26e670151cf5cb662befa95c7704a3a52f738
