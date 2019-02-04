@@ -8,7 +8,6 @@ Testing No fastforward again in git.
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
-<<<<<<< HEAD
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
 Adding Text to test conflict on the other branch
