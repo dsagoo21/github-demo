@@ -3,15 +3,6 @@ Changed This is Test File
 Editing Text file.
 This is a text file.
 
-
-Testing No fastforward again in git.
-Adding Text to test conflict on the other branch
-Adding Text to test conflict on the other branch
-Adding Text to test conflict on the other branch
-Adding Text to test conflict on the other branch
-Adding Text to test conflict on the other branch
-Adding Text to test conflict on the other branch
-Adding Text to test conflict on the other branch
-
+Testing Stahing in GIT.
 
 Testing git Rebase pull.
